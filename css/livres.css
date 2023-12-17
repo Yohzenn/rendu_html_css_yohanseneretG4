@@ -12,7 +12,6 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-
 }
 
 nav ul {
@@ -39,6 +38,7 @@ nav a {
   margin: 0 auto;
   width: 60%;
   margin-top: 50px;
+  margin-bottom: 50px;
 }
 .livre {
   display: flex;
@@ -181,10 +181,3 @@ Footer p {
 .margin-maison {
   margin: 10px;
 }
-
-
-@media screen and (min-width: 1467px) {
-    .book {
-        margin-bottom: 60px;
-    }
-    
